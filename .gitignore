@@ -1,0 +1,5 @@
+*.user
+
+/TestProblemRouting/bin
+
+/TestProblemRouting/obj/Debug
