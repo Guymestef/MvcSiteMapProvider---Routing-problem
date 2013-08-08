@@ -6,15 +6,20 @@ using System.Web.Mvc;
 
 namespace TestProblemRouting.Controllers
 {
-    public class HomeController : Controller
+    public partial class HomeController : Controller
     {
         //
         // GET: /Home/
 
-        public ActionResult Index()
+        public virtual ActionResult Index()
         {
             return View();
         }
 
+
+        public virtual ActionResult Details(int id)
+        {
+            return View();
+        }
     }
 }
