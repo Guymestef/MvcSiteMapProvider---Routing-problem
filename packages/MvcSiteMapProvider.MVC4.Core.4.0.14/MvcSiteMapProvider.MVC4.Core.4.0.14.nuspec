@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>MvcSiteMapProvider.MVC4.Core</id>
-    <version>4.0.6</version>
+    <version>4.0.14</version>
     <title>MvcSiteMapProvider MVC4 Core</title>
     <authors>Maarten Balliauw</authors>
     <owners>Maarten Balliauw</owners>

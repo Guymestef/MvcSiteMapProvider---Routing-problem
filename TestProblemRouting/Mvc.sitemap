@@ -4,7 +4,7 @@
             xsi:schemaLocation="http://mvcsitemap.codeplex.com/schemas/MvcSiteMap-File-4.0 MvcSiteMapSchema.xsd">
 
   <mvcSiteMapNode title="Home" controller="Home" action="Index">
-    <mvcSiteMapNode title="Details" controller="Home" action="Details" visibility="SiteMapPathHelper,!*" visibilityProvider="MvcSiteMapProvider.FilteredSiteMapNodeVisibilityProvider, MvcSiteMapProvider" preservedRouteParameters="id"/>
+    <mvcSiteMapNode title="About" controller="Home" action="About"/>
   </mvcSiteMapNode>
 
 </mvcSiteMap>
